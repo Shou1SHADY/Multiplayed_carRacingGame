@@ -1,0 +1,11 @@
+threading
+tkinter
+Socket
+pygame
+atexit
+json
+select
+asyncio
+websockets
+websocket
+sys
